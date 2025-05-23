@@ -1,0 +1,9 @@
+{
+	"name": "srcadf15",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8870748-53a8-4c80-86a2-f19b06d046be",
+		"tenantId": "58065198-9533-4ab7-aa82-08191cdff713"
+	}
+}
