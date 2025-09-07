@@ -1,0 +1,9 @@
+{
+	"name": "adfdevproj1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3da5d5d7-c6ff-4b66-bfc0-f320b2da58e9",
+		"tenantId": "58065198-9533-4ab7-aa82-08191cdff713"
+	}
+}
